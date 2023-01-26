@@ -4,6 +4,9 @@ A simple and elegant calculator app built using HTML, CSS, and JavaScript.
 
 ![Calculator Screenshot](calculator.png)
 
+Try the calculator at: [Elegant Calculator](https://elegant-calculator.web.app)
+
+
 ## Features
 
 - Basic mathematical operations: addition, subtraction, multiplication, and division
